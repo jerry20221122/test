@@ -4,6 +4,11 @@ function login(){
 //var ii =1;
 //var iii = 2;
 
+	for(let i =0;i<10;i++){
+		
+consol.log(i*10)
+}
+
 	var i = 0;
 	var xx = 3;
 	var yy = 4;
